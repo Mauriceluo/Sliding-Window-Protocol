@@ -1,0 +1,23 @@
+C:\Users\∑…”Ó\Desktop\Selective\Debug\SR.exe a 
+=========================================================================
+                          Station A                                 
+-------------------------------------------------------------------------
+Protocol.lib, version 3.0, Build: Oct 19 2009 (jiangy@public3.bta.net.cn)
+Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-005
+Log file "C:\Users\∑…”Ó\Desktop\Selective\Debug\SR-A.log", TCP port 59144, debug mask 0x00
+Station A is waiting for station B on TCP port 59144 ... Done.
+New epoch: Sat May 27 17:09:16 2017
+=========================================================================
+Designed by Zhou Feiyu.
+Build: May 27 2017  16:54:33
+3.429 .... 3 packets received, 2871 bps, 35.89%, Err 1 (5.3e-005)
+5.539 .... 15 packets received, 7228 bps, 90.35%, Err 1 (2.8e-005)
+7.633 .... 23 packets received, 7425 bps, 92.81%, Err 1 (1.9e-005)
+9.773 .... 31 packets received, 7483 bps, 93.54%, Err 1 (1.4e-005)
+11.883 .... 39 packets received, 7539 bps, 94.24%, Err 1 (1.2e-005)
+13.977 .... 47 packets received, 7586 bps, 94.83%, Err 1 (9.7e-006)
+16.086 .... 55 packets received, 7612 bps, 95.15%, Err 1 (8.3e-006)
+18.211 .... 63 packets received, 7625 bps, 95.31%, Err 1 (7.3e-006)
+20.336 .... 71 packets received, 7634 bps, 95.43%, Err 1 (6.5e-006)
+22.446 .... 79 packets received, 7647 bps, 95.59%, Err 1 (5.8e-006)
+24.555 .... 83 packets received, 7306 bps, 91.33%, Err 3 (1.6e-005)

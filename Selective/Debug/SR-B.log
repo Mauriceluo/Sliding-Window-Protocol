@@ -1,0 +1,24 @@
+C:\Users\∑…”Ó\Desktop\Selective\Debug\SR.exe b 
+=========================================================================
+                          Station B                                 
+-------------------------------------------------------------------------
+Protocol.lib, version 3.0, Build: Oct 19 2009 (jiangy@public3.bta.net.cn)
+Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-005
+Log file "C:\Users\∑…”Ó\Desktop\Selective\Debug\SR-B.log", TCP port 59144, debug mask 0x00
+Station B is connecting station A (TCP port 59144) ... Failed!
+Station B is connecting station A (TCP port 59144) ... Done.
+New epoch: Sat May 27 17:09:16 2017
+=========================================================================
+Designed by Zhou Feiyu.
+Build: May 27 2017  16:54:33
+2.592 .... 8 packets received, 7706 bps, 96.33%, Err 0 (0.0e+000)
+4.949 .... 12 packets received, 5482 bps, 68.53%, Err 1 (2.6e-005)
+7.059 .... 24 packets received, 7455 bps, 93.19%, Err 1 (1.8e-005)
+9.199 .... 32 packets received, 7504 bps, 93.81%, Err 1 (1.4e-005)
+11.293 .... 40 packets received, 7566 bps, 94.58%, Err 1 (1.1e-005)
+13.403 .... 48 packets received, 7599 bps, 94.98%, Err 1 (9.5e-006)
+15.513 .... 56 packets received, 7622 bps, 95.27%, Err 1 (8.2e-006)
+17.622 .... 64 packets received, 7640 bps, 95.50%, Err 2 (1.4e-005)
+24.230 .... 65 packets received, 5602 bps, 70.02%, Err 3 (1.6e-005)
+26.339 .... 84 packets received, 6649 bps, 83.11%, Err 3 (1.5e-005)
+26.634 TCP Disconnected.
